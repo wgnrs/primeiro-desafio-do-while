@@ -1,0 +1,15 @@
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Instruções do-while e while\Desafios\primeiro-desafio-do-while\bin\Debug\net8.0\primeiro-desafio-do-while.exe
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Instruções do-while e while\Desafios\primeiro-desafio-do-while\bin\Debug\net8.0\primeiro-desafio-do-while.deps.json
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Instruções do-while e while\Desafios\primeiro-desafio-do-while\bin\Debug\net8.0\primeiro-desafio-do-while.runtimeconfig.json
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Instruções do-while e while\Desafios\primeiro-desafio-do-while\bin\Debug\net8.0\primeiro-desafio-do-while.dll
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Instruções do-while e while\Desafios\primeiro-desafio-do-while\bin\Debug\net8.0\primeiro-desafio-do-while.pdb
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Instruções do-while e while\Desafios\primeiro-desafio-do-while\obj\Debug\net8.0\primeiro-desafio-do-while.GeneratedMSBuildEditorConfig.editorconfig
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Instruções do-while e while\Desafios\primeiro-desafio-do-while\obj\Debug\net8.0\primeiro-desafio-do-while.AssemblyInfoInputs.cache
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Instruções do-while e while\Desafios\primeiro-desafio-do-while\obj\Debug\net8.0\primeiro-desafio-do-while.AssemblyInfo.cs
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Instruções do-while e while\Desafios\primeiro-desafio-do-while\obj\Debug\net8.0\primeiro-desafio-do-while.csproj.CoreCompileInputs.cache
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Instruções do-while e while\Desafios\primeiro-desafio-do-while\obj\Debug\net8.0\primeiro-desafio-do-while.sourcelink.json
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Instruções do-while e while\Desafios\primeiro-desafio-do-while\obj\Debug\net8.0\primeiro-desafio-do-while.dll
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Instruções do-while e while\Desafios\primeiro-desafio-do-while\obj\Debug\net8.0\refint\primeiro-desafio-do-while.dll
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Instruções do-while e while\Desafios\primeiro-desafio-do-while\obj\Debug\net8.0\primeiro-desafio-do-while.pdb
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Instruções do-while e while\Desafios\primeiro-desafio-do-while\obj\Debug\net8.0\primeiro-desafio-do-while.genruntimeconfig.cache
+G:\Cursos\Microsoft Learn\CSharp Parte 3\Instruções do-while e while\Desafios\primeiro-desafio-do-while\obj\Debug\net8.0\ref\primeiro-desafio-do-while.dll
